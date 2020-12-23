@@ -32,4 +32,4 @@ Trip duration: total travel time, average travel time
 
 User info counts of each user type: counts of each gender, earliest year of birth, most recent year of birth, most common year of birth
 
-Classifiers used are: SVM, Gaussian ND, Random Forest and Decision Tree
+Classifiers used are: SVM, Gaussian NB, Random Forest and Decision Tree
