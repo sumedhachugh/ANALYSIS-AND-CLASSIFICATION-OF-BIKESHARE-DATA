@@ -1,5 +1,7 @@
 # ANALYSIS-AND-CLASSIFICATION-OF-BIKESHARE-DATA
 
+### Refer bspr_ppt.pdf (https://github.com/sumedhachugh/ANALYSIS-AND-CLASSIFICATION-OF-BIKESHARE-DATA/blob/main/bspr%20ppt.pdf) for short description of what all I have done in the project
+
 DATASET USED:
 
 In this project the data explored is related to bike share systems for three major cities in the United States— Chicago, New York City, and Washington. Dataset consists of three files:
